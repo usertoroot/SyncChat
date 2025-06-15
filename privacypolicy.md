@@ -15,7 +15,7 @@
 **3. How We Use Your Data**
 
 * We match incoming encrypted streams to the correct recipient purely by their public key.
-* No one at YourEnd2End Chat (including us!) can decrypt or read your messages—ever.
+* We can not decrypt or read your messages.
 * We do **not** store chat logs, message contents, contact lists, or IP addresses beyond what’s strictly necessary for real-time delivery.
 
 **4. End-to-End Encryption**
