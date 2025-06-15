@@ -1,4 +1,4 @@
-**Privacy Policy for YourEnd2End Chat**
+**Privacy Policy**
 
 *Last updated: June 15, 2025*
 
